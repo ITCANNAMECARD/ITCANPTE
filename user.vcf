@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:PTE LTD;ITCAN;;;
-FN: ITCAN PTE LTD
-ORG:ITCAN PTE LTD;
-TITLE:ITCAN PTE LTD
+N:PTE LIMITED;ITCAN;;;
+FN: ITCAN PTE LIMITED
+ORG:ITCAN PTE LIMITED;
+TITLE:ITCAN PTE LIMITED
 EMAIL;type=INTERNET;type=WORK;type=pref:human.resource@itcan.biz
 TEL;type=WORK;type=VOICE:+65 6604 6805
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
